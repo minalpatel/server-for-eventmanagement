@@ -1,0 +1,4 @@
+{
+    "mongoDBconnectURI" : "mongodb+srv://stack:techies@cluster0-bdkct.mongodb.net/event_brite?retryWrites=true&w=majority",
+    "jwtsecret": "secret"
+}
